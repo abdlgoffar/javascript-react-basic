@@ -1,0 +1,2 @@
+//use ref accept adalah cara untuk membuat component bisa menerima data event use ref, karene by default data event use ref hanya bisa diterima oleh difault component react js, misal <button>, <label>, <input> dll.
+//untuk mengetahui cara use ref accept di react, lihat pada package components, file Focus.js

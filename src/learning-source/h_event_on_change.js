@@ -1,0 +1,2 @@
+//event one change adalah cara pembuatan interaksi sebuah user dan interface app yang terlihat secara langsung hasil interaksinya.
+//untuk mengetahui cara pembuatan event one change di react, lihat pada package components, file Register.js

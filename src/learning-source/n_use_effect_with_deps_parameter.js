@@ -1,0 +1,2 @@
+//use effect with deps parameter adalah block code yg berada di dalam component dan hanya di rirender ketika parameter di deps nya mendapatkan action atau event.
+//untuk mengetahui cara pembuatan use effect with deps parameter di react, lihat pada package components, file Test3.js

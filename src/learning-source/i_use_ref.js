@@ -1,0 +1,3 @@
+//use ref adalah cara pembuatan event yang scope penggunaannya hanya bisa digunakan oleh component yg mempunyai event tersebut atau biasa disebut rerender oleh developer react.
+//rerender adalah proses update pemberian event hanya pada satu component saja bukan seluruh component yg berada dalam satu domain atau kesatuan function pembuatan component yg sama. 
+//untuk mengetahui cara pembuatan use ref di react, lihat pada package components, file RecordInt.js

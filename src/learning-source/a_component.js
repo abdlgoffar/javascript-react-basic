@@ -1,0 +1,2 @@
+//component adalah kumpulan kode interface yang dibuat terpisah dan bisa digunakan secara berulang-ulang.
+//untuk mengetahui cara pembuatan component di react, lihat pada package components, file Name.js

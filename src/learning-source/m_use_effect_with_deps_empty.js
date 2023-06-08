@@ -1,0 +1,2 @@
+//use effect with deps empty adalah block code yg berada di dalam component dan hanya di rirender sekali saja atau sekali dipanggil ketika component nya di load atau lebih tepatnya terdapat action pada component tempat block use effect itu dibuat.
+//untuk mengetahui cara pembuatan use effect with deps empty  di react, lihat pada package components, file Test2.js
